@@ -36,7 +36,7 @@ class Model(object):
 
         # loss
         if isinstance(loss, str):
-            if isinstance(metrics, list) or metrics:  # metrics is list or None
+            if isinstance(metrics, list) or (not metrics):  # metrics is list or None
                 self.add(Cost(loss, metrics))
             else:
                 raise TypeError('metrics should be a list or None')
