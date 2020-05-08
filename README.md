@@ -1,5 +1,7 @@
 # SenKuu —— Deep Learning for beginners
-![head](./other/pics/head.png)
+<p>
+    <img src="other/pics/head.png">
+</p>
 
 ![LatestVersion](https://img.shields.io/badge/LatestVersion-0.1.0-blue.svg)   
 
@@ -49,14 +51,23 @@ $ git clone https://github.com/techrc/senkuu.git
 ```
 
 ## Developed & Developing Functions
-![functions](./other/pics/functions.png)
+<p>
+    <img src="other/pics/functions.png">
+</p>
 
 ## Architecture
-![architecture](./other/pics/architecture.png)
+<p>
+    <img src="other/pics/architecture.png">
+</p>
 
 ## Data Flow
-![data flow](./other/pics/dataflow.png)
+<p>
+    <img src="other/pics/dataflow.png">
+</p>
 
 ## Why this name, SenKuu?
-![senkuu](./otherpics/senkuu.png)  
+<p>
+    <img src="other/pics/senkuu.png">
+</p>
+
 Here is Senkuu, senkuu from **《Dr.Stone》**
