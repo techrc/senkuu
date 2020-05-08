@@ -1,19 +1,17 @@
 # SenKuu —— Deep Learning for beginners
-![head](./other/pics/head.png)
+<p>
+    <img src="other/pics/head.png">
+</p>
 
 ![LatestVersion](https://img.shields.io/badge/LatestVersion-0.1.0-blue.svg)   
-
-**NOTE：** 可能会由于网络问题无法正常显示图片，请clone到本地查看
 
 ## Welcome
 基于 NumPy 的深度学习模型开发框架，通过搭积木的方式来组装神经网络模型。API 借鉴了 Keras 的设计。
 
-**Contact Me**: senkuu @ 163.com
-
 ## License
 ![license](https://img.shields.io/badge/license-Apache-brightgreen.svg)  
 <br/>
-LearnDL is distributed under the Apache license 2.0.
+Senkuu is distributed under the Apache license 2.0.
 
 ## Getting started: 10 seconds to SenKuu
 ``` python
@@ -49,14 +47,23 @@ $ git clone https://github.com/techrc/senkuu.git
 ```
 
 ## Developed & Developing Functions
-![functions](./other/pics/functions.png)
+<p>
+    <img src="other/pics/functions.png">
+</p>
 
 ## Architecture
-![architecture](./other/pics/architecture.png)
+<p>
+    <img src="other/pics/architecture.png">
+</p>
 
 ## Data Flow
-![data flow](./other/pics/dataflow.png)
+<p>
+    <img src="other/pics/dataflow.png">
+</p>
 
 ## Why this name, SenKuu?
-![senkuu](./otherpics/senkuu.png)  
+<p>
+    <img src="other/pics/senkuu.png">
+</p>
+
 Here is Senkuu, senkuu from **《Dr.Stone》**
